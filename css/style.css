@@ -1,14 +1,23 @@
 html {
-    background-color: teal;
+    background-color:#034f84;
+    height: 100vh;
+    border: solid #92a8d1  15px;
 }
 
 #wrapper {
-    border: solid gray 15px;
+    text-align: center;
+    width: auto;
+}
+
+#page-header {
+    color: darkkhaki;
+    text-decoration: underline;
     text-align: center;
 }
 
 #mad-lib-story {
-    width: 75vw;
-    color: tomato;
+    color: darkkhaki;
+    padding-left: 15vw;
+    width: 70vw;
+    text-align: center;
 }
-
