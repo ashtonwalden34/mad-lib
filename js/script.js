@@ -34,7 +34,7 @@ function madLib(noun1, adj1, pronoun1, noun2, adj2, adj3,
         "Sometimes they would argue whether they should play video games " + conj2 + " watch TV."
 }
 
-alert (madLib(noun1, adj1, pronoun1, noun2, adj2, adj3, pronoun2, verb1, verb2, pronoun3, verb3, adverb1, prep1, prep2, conj1, verb4, adverb2, inter1, inter2, conj2));
+// alert (madLib(noun1, adj1, pronoun1, noun2, adj2, adj3, pronoun2, verb1, verb2, pronoun3, verb3, adverb1, prep1, prep2, conj1, verb4, adverb2, inter1, inter2, conj2));
 
 
 
