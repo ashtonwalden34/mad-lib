@@ -1,0 +1,14 @@
+html {
+    background-color: teal;
+}
+
+.wrapper {
+    border: solid gray 15px;
+    text-align: center;
+}
+
+.mad-lib-story {
+    width: 75vw;
+    color: tomato;
+}
+
